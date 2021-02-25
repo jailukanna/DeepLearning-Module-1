@@ -6,7 +6,7 @@
  __Deep Learning__ is a specific subfield of machine learning.Deep learning is a mathematical framework for learning representations from data. A new take on learning representations from data that puts an emphasis on learning successive layers of increasingly meaningful representations.How many layers contribute to a model of the data is called the depth of the model.In deep learning these layered representations are almost always learned via models called neural networks, structured in literal layers stacked on top of each other.
 
 
-# Why is deep learning important today?
+# Why is Deep Learning important today?
 
 Today, we enjoy the benefits of algorithms and strategies that we did not have 20 or 30 years ago, which enable us to have amazing applications that are changing lives. Allow me to summarize some of the great and important things about deep learning today:
 
