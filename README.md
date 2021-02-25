@@ -1,8 +1,5 @@
 # DeepLearning-Module-1
 
-# DeepLearning-Module-1
-
-
 
 # What is Deep Learning?
 
